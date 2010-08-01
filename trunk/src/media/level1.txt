@@ -1,0 +1,46 @@
+secretWait 1
+wait 2
+secretWait 1
+spawn 50 2 
+spawn 75 2
+spawn 100 2
+spawn 125 2
+wait 2
+newWave
+spawn 50 2 
+spawn 75 2
+spawn 100 2
+spawn 125 2
+wait 2
+newWave
+spawn 50 2 
+spawn 75 2
+spawn 100 2
+spawn 125 2
+wait 2
+newWave
+spawn 50 2 
+spawn 75 2
+spawn 100 2
+spawn 125 2
+wait 2
+newWave
+spawn 50 2 
+spawn 75 2
+spawn 100 2
+spawn 125 2
+wait 2
+newWave
+spawn 50 2 
+spawn 75 2
+spawn 100 2
+spawn 125 2
+wait 2
+newWave
+secretWait 5
+spawn 12 11111
+newWave
+secretWait 10
+levelComplete
+secretWait 7
+nextLevel

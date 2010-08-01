@@ -1,0 +1,12 @@
+ascend
+secretWait 1
+spawn 50 2 
+spawn 75 2
+spawn 100 2
+spawn 125 2
+secretWait 1
+spawn 50 2 
+spawn 75 2
+spawn 100 2
+spawn 125 2
+nextLevel

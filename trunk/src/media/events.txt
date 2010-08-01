@@ -1,0 +1,18 @@
+rezoom 0.03125
+gridmove 190 195 
+secretWait 1
+spawn 4 a 5
+spawn 0 a 0
+wait 5
+uhoh
+secretWait 7
+killAll
+wait 5 //level ends
+levelComplete
+secretWait 7
+nextLevel
+
+//nothing else after this point is used
+
+ascend
+wait 7
