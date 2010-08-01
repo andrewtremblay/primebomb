@@ -1,0 +1,23 @@
+gridalign -400 -400 
+rezoom 0.03125
+secretWait 2
+ascend
+secretWait 7
+gridmove 180 75 
+secretWait 1
+spawn x a 2
+wait 10
+secretWait 5
+killAll
+gridmove 190 195
+spawn 0 a 1 2 3 4 5
+wait 10
+secretWait 5
+killAll
+spawn x a 1 2 3 4
+spawn x b 5
+wait 9
+secretWait 5
+levelComplete
+secretWait 7
+nextLevel

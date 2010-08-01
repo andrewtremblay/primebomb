@@ -1,0 +1,2 @@
+secretWait 1
+pause 0
